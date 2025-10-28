@@ -21,4 +21,4 @@ O objetivo deste projeto é especificar um sistema de software (SaaS) que centra
 * **/documentacao/03-Analise-e-Modelagem**: Síntese e análise dos dados coletados.
 * **/documentacao/04-Validacao-e-Rastreabilidade**: Matriz que liga os requisitos às suas fontes.
 * **/documentacao/Especificacao-de-Requisitos-Sistema.pdf**: O documento final consolidado com a lista completa de Requisitos Funcionais e Não Funcionais.
-* **/gerenciamento**: Documentos de gestão do projeto (cronograma, etc.).
+* **/gerenciamento**: Documentos de gestão do projeto.
