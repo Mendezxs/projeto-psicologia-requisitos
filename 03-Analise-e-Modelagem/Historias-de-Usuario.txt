@@ -1,0 +1,23 @@
+História 1: Registro e Sigilo do Prontuário
+
+Como Psicólogo, eu quero anotar a evolução da sessão no prontuário digital para que eu tenha o histórico completo do paciente e certeza que só eu posso ler essas anotações.
+
+História 2: Autoagendamento pelo Paciente
+
+Como Paciente, eu quero poder marcar ou remarcar minha consulta sozinho pelo sistema para que eu possa ver os horários livres e resolver isso na hora, sem ter que ficar mandando mensagem pra clínica.
+
+História 3: Gestão Financeira e Inadimplência
+
+Como Administrador(a), eu quero registrar os pagamentos e parcelas de cada paciente para que o sistema me mostre quem está devendo e eu possa controlar o caixa sem depender de planilha.
+
+História 4: Envio de Lembretes de Consulta
+
+Como Paciente, eu quero receber um lembrete automático no meu WhatsApp um dia antes da consulta para que eu não esqueça o horário e não acabe faltando.
+
+História 5: Geração de Relatórios Financeiros
+
+Como Administrador(a), eu quero tirar relatórios fáceis de entrada, saída e de quem não pagou para que eu possa ver como a clínica foi no mês e me planejar.
+
+História 6: Integração da Plataforma de Teleatendimento
+
+Como Psicólogo, eu quero fazer a sessão de vídeo online dentro do próprio sistema para que eu não precise usar outro programa e tenha mais segurança no atendimento.
